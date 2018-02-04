@@ -1,0 +1,23 @@
+{
+  "name": "ECL-French_flu_map",
+  "version": "1.0.0",
+  "description": "Map showing how the flu hit different French regions in 2014, with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThibaultLecailtel/ECL-French_flu_map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThibaultLecailtel/ECL-French_flu_map/issues"
+  },
+  "homepage": "https://github.com/ThibaultLecailtel/ECL-French_flu_map#readme",
+  "dependencies": {
+    "d3": "^4.13.0"
+  }
+}
